@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumsum Gogoi</h1>
-<h3 align="center">👀 A passionate MERN stack developer from India</h3>
+<h3 align="center">👀 A passionate Full stack developer from India</h3>
 
 <img align="right" alt="codeing" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
