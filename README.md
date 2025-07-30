@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Blockchain, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://sumsum-portfolio.vercel.app/](https://sumsum-gogoi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sumsum-gogoi.vercel.app/](https://sumsum-gogoi.vercel.app/)
 
 - 💬 Ask me about **mern**
 
 - 📫 How to reach me **sumsumgogoi51@gmail.com**
 
-- 📄 Know about my experiences [https://sumsum-portfolio.vercel.app/](https://sumsum-gogoi.vercel.app/)
+- 📄 Know about my experiences [https://sumsum-gogoi.vercel.app/](https://sumsum-gogoi.vercel.app/)
 
 - ⚡ Fun fact **an average basketball player**
 
