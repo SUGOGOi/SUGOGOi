@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugogoi&label=Profile%20views&color=0e75b6&style=flat" alt="sugogoi" /> </p>
 
-- 🌱 I’m currently learning **Blockchain, Nextjs**
+- 🌱 I’m currently learning **Blockchain, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://sumsum-portfolio.vercel.app/](https://sumsum-portfolio.vercel.app/)
 
